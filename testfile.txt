@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 testfile new
+=======
+test file edited
+>>>>>>> 2663cafae2452ca6ebc3c5a990f2093b9a629aac
 
